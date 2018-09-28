@@ -1785,6 +1785,27 @@ body {
     text-align: center;
   }
 }
+.cid-r4Y78GkuJr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #073b4c;
+  background: linear-gradient(45deg, #073b4c, #000000);
+}
+@media (min-width: 992px) {
+  .cid-r4Y78GkuJr .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r4Y78GkuJr .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r4Y78GkuJr .mbr-text {
+    text-align: center;
+  }
+}
 .cid-r4UfbEgsti .navbar {
   padding: .5rem 0;
   background: #333333;
